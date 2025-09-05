@@ -1,13 +1,13 @@
 [
   {
-    "user_id": "11111",
+    "user_id": "aaaaaa",
     "name": "abhinand",
-    "hashedpassword": "aaa111",
-    "ticketBooked": [
+    "hashed_password": "12345",
+    "tickets_booked": [
       {
         "source": "Bangalore",
         "destination": "Delhi",
-        "date": "2025-09-07T18:30:00Z",
+        "date_of_travel": "2025-09-07T18:30:00Z",
         "train": {
           "train_id": "bacs",
           "train_no": 12345,
