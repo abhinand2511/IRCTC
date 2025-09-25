@@ -1,4 +1,4 @@
-package org.example.entities;
+package ticket.Booking.entities;
 
 public class User {
     private String name;

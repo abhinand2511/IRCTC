@@ -1,8 +1,8 @@
-package org.example.services;
+package ticket.Booking.services;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.example.entities.User;
+import ticket.Booking.entities.User;
 
 import java.io.File;
 import java.util.List;
